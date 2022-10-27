@@ -18,7 +18,7 @@ public class Main {
 
         int clientOS1 = 1;
 
-        int clientDeviceYear = 2017;
+        int clientDeviceYear = 2018;
 
         if(clientOS == 0 && clientDeviceYear < 2015) {
             System.out.println("Установите облегченную версию приложения" +
